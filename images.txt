@@ -5,3 +5,4 @@ kasmweb/nginx:1.25.3
 xiaoyaliu/alist:latest
 looby/aliyundrive-subscribe:latest
 mlikiowa/napcat-docker:latest
+easychen/cookiecloud:latest
