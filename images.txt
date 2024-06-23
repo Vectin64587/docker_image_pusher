@@ -6,5 +6,5 @@ xiaoyaliu/alist:latest
 looby/aliyundrive-subscribe:latest
 mlikiowa/napcat-docker:latest
 easychen/cookiecloud:latest
-saika2077/pikpak_auto_invite:1 
+cloudflare/cloudflared:latest
 jhao104/proxy_pool
