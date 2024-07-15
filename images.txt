@@ -8,3 +8,4 @@ mlikiowa/napcat-docker:latest
 easychen/cookiecloud:latest
 cloudflare/cloudflared:latest
 jhao104/proxy_pool
+xhofe/alist:latest
