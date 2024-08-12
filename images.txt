@@ -9,3 +9,4 @@ easychen/cookiecloud:latest
 cloudflare/cloudflared:latest
 jhao104/proxy_pool
 uozi/nginx-ui:latest
+linuxserver/duplicati:latest
